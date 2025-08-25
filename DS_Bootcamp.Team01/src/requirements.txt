@@ -1,0 +1,14 @@
+ipykernel==6.29.5
+ipython==9.2.0
+ipython_pygments_lexers==1.1.1
+jupyter_client==8.6.3
+jupyter_core==5.8.1
+matplotlib==3.10.5
+matplotlib-inline==0.1.7
+multipledispatch==1.0.0
+numpy==2.2.6
+pandas==2.2.3
+pandas_flavor==0.7.0
+platformdirs==4.3.8
+scikit-learn==1.7.1
+seaborn==0.13.2
